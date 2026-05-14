@@ -17,8 +17,8 @@ const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBh
  * =========================================================================
  */
 const ADMIN_EMAILS = [
-  'admin@flamedesk.com',
-  'admin@admin.com',
+  'arthurgmgalvao@gmail.com',
+  'noaheana@gmail.com',
 ];
 
 class SupabaseConnection {
